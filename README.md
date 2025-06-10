@@ -16,7 +16,9 @@ Its features include:
 - **Color-coding tasks based on priority**: The dropdown menu right before the task input includes three colors indicative of priority of the task, from yellow being lowest in priority, to red being the highest.
 - **Timestamps of the dates**: A helpful feature for the user to track when they assigned and completed tasks embedded in each task.
 - **Settings**: For if the user feels they need a change of fonts or themes, they can click the gear in the top right to head to the settings.
-- **Themes & fonts**: If the user feels they need a change of setting and/or font text, they can access the 4 different themes and fonts in the Settings menu and select at their leisure.
+- **Themes & fonts**: If the user feels they need a change of setting and/or font text, they can access the 4 different themes and fonts in the Settings menu and select at their leisure
+
+**NOTE**: The user can only have 3 active/completed tasks to maximize productivity and set a clear-cut goal!
 
 **External Libraries**: The only library I imported externally was **date-fns**, from which I used its format function to collect the dates for the large title, as well as for the date completed and date assigned for the ongoing/completed reminders.
 
