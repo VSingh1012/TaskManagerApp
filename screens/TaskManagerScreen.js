@@ -208,7 +208,7 @@ export default function TaskManagerScreen( { navigation, currentTheme }) {
                         <TextInput style={styles.taskInput} placeholderTextColor={'grey'} placeholder="Add a new task..." value={task} onChangeText={setTask} />
 
                         {/* Description Input Field */}
-                        <TextInput style={styles.descriptionInput} placeholderTextColor={'grey'} placeholder='Add an optional short description for your task...' value={description} onChangeText={setDescription} />
+                        <TextInput style={styles.descriptionInput} placeholderTextColor={'grey'} placeholder='Add a description for your task...' value={description} onChangeText={setDescription} />
 
                         {/* Add Task Button */}
                         <AnimatedButtonWithOpacity onPress={addTask} style={styles.addButton}>
