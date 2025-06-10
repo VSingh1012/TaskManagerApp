@@ -1,6 +1,6 @@
 To open the application, simply click the link posted below: 
 
-[Click here!](productivity-go.netlify.app)
+[Click here!]("productivity-go.netlify.app")
 
 This is my take on a basic task-manager app, called "Productivity-Go!"
 
