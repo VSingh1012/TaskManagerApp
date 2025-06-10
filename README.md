@@ -1,4 +1,4 @@
-To open the application, simply copy the link posted below and paste it in your search bar: 
+To open the application, simply click or copy the link posted below and paste it in your search bar: 
 
 https://productivity-go.netlify.app/
 
