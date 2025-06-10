@@ -11,7 +11,7 @@ Its friendly navigation and relaxed UI allows for easy management of reminders a
 Its features include: 
 
 - **Adding tasks**: The user can simply press the "Add" button after typing in a task and an optional description.
-- **Animated Effects** : Simple animations for the buttons and tasks are used to enhance the user experience.
+- **Animated Effects**: Simple animations for the buttons and tasks are used to enhance the user experience.
 - **Deleting tasks**: The red "X" is present at the end of every task if the user decides they don't need it anymore.
 - **Color-coding tasks based on priority**: The dropdown menu right before the task input includes three colors indicative of priority of the task, from yellow being lowest in priority, to red being the highest.
 - **Timestamps of the dates**: A helpful feature for the user to track when they assigned and completed tasks embedded in each task.
