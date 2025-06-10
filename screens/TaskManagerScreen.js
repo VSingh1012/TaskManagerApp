@@ -218,7 +218,7 @@ export default function TaskManagerScreen( { navigation, currentTheme }) {
 
                     {/* Message for first-time task creation */}
                     {messageVisible && (
-                        <View>
+                        <View style={styles.priorityView}>
                             <Text style={styles.firstPartPriorityMsg}>Add a reminder with a short description to get started! Choose any of the priority colors to set priorities to your alerts!</Text>
                             <Text style={styles.secondPartPriorityMsg}>🟨 is for low, 🟧 is for medium, and 🟥 is for high priorities!</Text>
                         </View>

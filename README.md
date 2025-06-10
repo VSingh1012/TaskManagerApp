@@ -23,4 +23,4 @@ Everything else I used was directly from react or react-native.
 
 Thank you Chapter-One for this opportunity! I hope you enjoy the application.
 
-- **Vikraant Singh**
+**Vikraant Singh**

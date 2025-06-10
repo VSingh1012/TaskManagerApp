@@ -98,6 +98,10 @@ export const styles = StyleSheet.create({
     fontSize: 20
   },
 
+  priorityView : {
+    marginTop : 40
+  },
+
   firstPartPriorityMsg : {
     fontSize : 20,
     fontStyle : 'italic',
@@ -107,7 +111,7 @@ export const styles = StyleSheet.create({
     textAlign : 'center'
   },
 
-    secondPartPriorityMsg : {
+  secondPartPriorityMsg : {
     fontSize : 20,
     color : 'white',
     shadowColor : 'black',
