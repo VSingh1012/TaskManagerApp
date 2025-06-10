@@ -208,7 +208,7 @@ export default function TaskManagerScreen( { navigation, currentTheme }) {
                         <TextInput style={styles.taskInput} placeholderTextColor={'grey'} placeholder="Add a new task..." value={task} onChangeText={setTask} />
 
                         {/* Description Input Field */}
-                        <TextInput style={styles.descriptionInput} placeholderTextColor={'grey'} placeholder='Add a short description for your task...' value={description} onChangeText={setDescription} />
+                        <TextInput style={styles.descriptionInput} placeholderTextColor={'grey'} placeholder='Add an optional short description for your task...' value={description} onChangeText={setDescription} />
 
                         {/* Add Task Button */}
                         <AnimatedButtonWithOpacity onPress={addTask} style={styles.addButton}>
@@ -219,7 +219,7 @@ export default function TaskManagerScreen( { navigation, currentTheme }) {
                     {/* Message for first-time task creation */}
                     {messageVisible && (
                         <View style={styles.priorityView}>
-                            <Text style={styles.firstPartPriorityMsg}>Add a reminder with a short description to get started! Choose any of the priority colors to set priorities to your alerts!</Text>
+                            <Text style={styles.firstPartPriorityMsg}>Add a reminder with an optional description to get started! Choose any of the priority colors to set priorities to your alerts!</Text>
                             <Text style={styles.secondPartPriorityMsg}>🟨 is for low, 🟧 is for medium, and 🟥 is for high priorities!</Text>
                         </View>
                     )}
