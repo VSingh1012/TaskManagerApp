@@ -183,7 +183,7 @@ export const styles = StyleSheet.create({
 
   dateText : {
     marginRight : 15,
-    marginBottom : 2,
+    marginBottom : 1,
   },
 
   deleteButton : {
@@ -223,7 +223,7 @@ export const styles = StyleSheet.create({
 
   completedDateText : {
     marginRight : 15,
-    marginBottom : 2,
+    marginBottom : 1,
     color : 'white'
   },
 
