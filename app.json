@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Productivity-Go!",
-    "slug": "Productivity-Go!",
+    "slug": "Productivity-Go",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +24,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f1b9ef01-fbd0-4811-9a67-b4ba47a3028a"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f1b9ef01-fbd0-4811-9a67-b4ba47a3028a"
     }
   }
 }
